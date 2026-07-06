@@ -1,19 +1,29 @@
 # Fabiano Correia de Lima
 
-## Principal Solution Architect | Enterprise AI | Cloud Architecture | Cybersecurity | Data Management
+## Principal Solution Architect | Enterprise AI | Multi-Cloud Architecture | Cybersecurity
 
-Technology executive with more than two decades of experience designing enterprise architectures, leading large-scale digital transformation initiatives and delivering mission-critical technology solutions.
+**IEEE Senior Member • Published Technical Author • AI Engineer • Enterprise Cloud Architect**
 
-Specialized in Enterprise AI, Multi-Cloud Architecture, Cloud Security, Data Platforms and Intelligent Automation, with expertise across Oracle Cloud Infrastructure (OCI), Microsoft Azure and Amazon Web Services (AWS).
+---
 
-My work is centered on building scalable, resilient and secure platforms that align technology strategy with measurable business outcomes.
+## About
+
+Principal Solution Architect with more than two decades of experience designing enterprise architectures, leading complex digital transformation initiatives and delivering mission-critical technology platforms for highly regulated industries.
+
+My professional experience spans enterprise architecture, artificial intelligence, cloud computing, cybersecurity, data platforms and software engineering, supporting organizations in building secure, resilient and scalable technology ecosystems.
+
+I specialize in Enterprise AI, cloud-native architectures, intelligent automation, distributed systems and multi-cloud environments, with extensive experience across Oracle Cloud Infrastructure (OCI), Microsoft Azure and Amazon Web Services (AWS).
+
+My mission is to transform complex business challenges into modern technology platforms that combine architectural excellence, operational resilience and measurable business value.
 
 ---
 
 ## Core Expertise
 
 - Enterprise Architecture
+- Principal Solution Architecture
 - Artificial Intelligence Engineering
+- Enterprise AI
 - Agentic AI
 - Generative AI
 - Large Language Models (LLMs)
@@ -26,13 +36,16 @@ My work is centered on building scalable, resilient and secure platforms that al
 - Docker
 - Terraform
 - DevSecOps
+- Cloud Security
 - Cybersecurity
 - Data Engineering
+- Software Engineering
 - High Availability & Disaster Recovery
+- Enterprise Integration
 
 ---
 
-## Professional Highlights
+## Professional Profile
 
 - Principal Solution Architect
 - IEEE Senior Member
@@ -40,30 +53,52 @@ My work is centered on building scalable, resilient and secure platforms that al
 - Enterprise Cloud Architect
 - Published Technical Author
 - Technical Reviewer
+- Cloud & AI Strategist
 
 ---
 
 ## Current Focus
 
 - Enterprise AI Platforms
-- Agentic AI
+- Agentic AI Solutions
 - AI System Design
 - Intelligent Automation
 - Cloud-Native Architectures
 - Enterprise Integration
-- Scalable AI Solutions
+- AI Governance
+- Secure AI Platforms
+- Oracle Cloud AI Services
+- Large-Scale Distributed Systems
 
 ---
 
 ## Featured Projects
 
-- AI Engineering Roadmap
+### AI Engineering Roadmap
+
+A structured roadmap documenting practical projects, reference architectures and engineering best practices focused on Artificial Intelligence, Cloud Computing and Enterprise AI.
+
+Upcoming repositories include:
+
 - OpenClaw on Oracle Cloud Infrastructure
 - Enterprise RAG Platform
 - AI Architecture Patterns
-- Cloud Automation
 - Agentic AI Laboratory
+- Cloud Automation
+- OCI AI Engineering
+- Enterprise System Design
+- AI Security & Governance
 
 ---
 
-*"Architecture is not only about designing systems. It is about designing technology that organizations can trust, operate and evolve for years."*
+## Professional Philosophy
+
+> Great architecture is not defined by complexity.  
+> It is defined by clarity, resilience, scalability and the ability to solve real business problems.
+
+---
+
+## Connect
+
+- LinkedIn: *(add your profile)*
+- GitHub: https://github.com/fabianocorreiadelima
